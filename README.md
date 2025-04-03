@@ -1,2 +1,3 @@
 # Bershka-ExecerciseJS
-Solution to technical test
+
+Solution to technical test, implement TS.
